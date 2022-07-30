@@ -3,5 +3,15 @@
         "sounds":[
             "minecraft:1u1fahrstuhl"
         ]
+    },
+    "andreas":{
+        "sounds":[
+            "minecraft:houaaaaaaoah"
+        ]
+    },
+    "wolfram":{
+        "sounds":[
+            "minecraft:wolfram"
+        ]
     }
 }

@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-07-26 18:27:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-20 17:40:28 +0200"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-06-10 19:08:23 +0200"
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2022-06-24 16:12:04 +0200"
@@ -296,6 +314,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2022-07-24 18:06:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
     },
     "done": true
   },
@@ -654,6 +678,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-07-13 20:04:29 +0200"
@@ -684,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2022-06-25 14:12:22 +0200"
@@ -705,6 +741,12 @@
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2022-07-24 18:19:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
     },
     "done": true
   },
@@ -771,6 +813,12 @@
   "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2022-07-20 15:26:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2022-07-26 19:44:53 +0200"
     },
     "done": true
   },
@@ -990,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-07-26 18:35:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-07-02 18:52:04 +0200"
@@ -1080,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2022-07-26 18:35:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2022-07-24 18:10:17 +0200"
@@ -1116,6 +1176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2022-06-28 19:02:21 +0200"
@@ -1131,6 +1197,12 @@
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2022-07-24 18:19:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2022-07-26 19:56:17 +0200"
     },
     "done": true
   },
@@ -1191,6 +1263,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-06-28 19:02:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
     },
     "done": true
   },
@@ -1416,6 +1494,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-07-26 19:44:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2022-07-26 18:11:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-07-24 19:38:28 +0200"
@@ -1446,6 +1536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2022-07-29 15:12:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2022-07-24 19:37:57 +0200"
@@ -1470,5 +1566,5 @@
     },
     "done": true
   },
-  "DataVersion": 3105
+  "DataVersion": 3117
 }
