@@ -93,5 +93,10 @@
         "sounds":[
             "minecraft:szeneimbauwagen"
         ]
+    },
+    "peterlustigende":{
+        "sounds":[
+            "minecraft:peterlustigende"
+        ]
     }
 }
